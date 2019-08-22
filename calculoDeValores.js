@@ -1,17 +1,17 @@
-function somarDoisValores() {
-  return;
+function somarDoisValores(x, y) {
+  return x + y;
 }
 
-function subtrairDoisValores() {
-  return;
+function subtrairDoisValores(x, y) {
+  return x - y;
 }
 
-function multiplicarDoisValores() {
-  return;
+function multiplicarDoisValores(x, y) {
+  return x * y;
 }
 
-function dividirDoisValores() {
-  return;
+function dividirDoisValores(x, y) {
+  return x / y;
 }
 
 module.exports = {
